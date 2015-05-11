@@ -1,1 +1,2 @@
 untitled.tex
+figures/climAmazoneMap/climAmazoneMap.png
